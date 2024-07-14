@@ -25,7 +25,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 
-<a href="https://x.com/AkonAsif5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_asif" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/asifprofile579/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-asif" height="30" width="40" /></a><a href="https://medium.com/@AkonAsif5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="md-asif" height="30" width="40" /></a> <a href="https://maps.app.goo.gl/zFghaSLYyLCgYdJz8" target="__blank"><i class="fa-solid fa-location-dot"></i></a> <a href="https://www.youtube.com/@TheLifeTutorial1" target="__blank"><i class="fa-brands fa-youtube"></i></a>
+<a href="https://x.com/AkonAsif5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_asif" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/asifprofile579/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-asif" height="30" width="40" /></a><a href="https://medium.com/@AkonAsif5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="md-asif" height="30" width="40" />
+</a> <a href="https://maps.app.goo.gl/zFghaSLYyLCgYdJz8" target="__blank"><i class="fa-solid fa-location-dot"></i></a> 
+<a href="https://www.youtube.com/@TheLifeTutorial1" target="__blank"><i class="fa-brands fa-youtube"></i></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

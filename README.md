@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Mohammad Asif </h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
-<img align="left" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
- <img src="https://komarev.com/ghpvc/?username=sydulamin&label=Profile%20views&color=0e75b6&style=flat" alt="mdasif" /> 
- <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=" alt="" /></a> 
+<img align="center" alt="coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<hr>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sydulamin&label=Profile%20views&color=0e75b6&style=flat" alt="mdasif" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=" alt="" /></a> </p>
 
 <p align="left"> <a href="https://x.com/AkonAsif5" target="blank"><img src="https://img.shields.io/twitter/follow/md_asif?logo=twitter&style=for-the-badge" alt="md_asif" /></a> </p>
 <a href="https://app.daily.dev/asifdailydev123"><img src="https://api.daily.dev/devcards/v2/NkBnF2L1iMsRBgoSgBKzn.png?type=default&r=hm5" width="356" alt="Mohammad Asif's Dev Card" width="400" alt="Md Asif's Dev Card"/></a>

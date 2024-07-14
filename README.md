@@ -1,4 +1,7 @@
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="MasterHead">
+</p>
+
 <h1 align="center">Hi 👋, I'm Mohammad Asif </h1>
 <h3 align="center">A passionate Backend developer from Bangladesh</h3>
 <img align="center" alt="coding" height="500" width="800" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
@@ -42,8 +45,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sydulamin&" alt="mdasif" /></p>
 
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/80781196/190216139-7697aa5a-c9a0-4bd6-80bf-3aca76a2e1c8.gif" alt="MasterHead">
-</p>
+[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 <!-- <h1 align="center">Bye 👋, Bye</h1> -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Now+it's+time+to+say+goodbye.+;If+you+like+my+profile+;and+ever+need+a+backend+developer;+feel+free+to+reach+out+to+me...👨🏻‍💻;" style="width: 100%;"> 

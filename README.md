@@ -25,18 +25,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-
-<a href="https://x.com/AkonAsif5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_asif" height="30" width="40" /></a> 
-
-<a href="https://www.linkedin.com/in/asifprofile579/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-asif" height="30" width="40" /></a>
-
-<a href="https://medium.com/@AkonAsif5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="md-asif" height="30" width="40" /></a> 
-
-<a href="https://www.youtube.com/@TheLifeTutorial1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md-asif" height="30" width="40" /></a> 
-
-</a> <a href="https://www.youtube.com/@TheLifeTutorial1" target="blank"><img align="center" src="map-pin-alt-svgrepo-com.svg" alt="md-asif" height="30" width="40" /></a> 
-
-<a href="https://medium.com/@AkonAsif5" target="blank"><img align="center" src="website-click-svgrepo-com.svg" alt="md-asif" height="30" width="40" /></a> 
+<a href="https://x.com/AkonAsif5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="md_asif" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/asifprofile579/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-asif" height="30" width="40" /></a><a href="https://medium.com/@AkonAsif5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="md-asif" height="30" width="40" /></a> <a href="https://www.youtube.com/@TheLifeTutorial1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="md-asif" height="30" width="40" /></a> </a> <a href="https://maps.app.goo.gl/ete3zT8SFfbjpKtVA" target="blank"><img align="center" src="icon/map-pin-alt-svgrepo-com.svg" alt="md-asif" height="30" width="40" /></a> <a href="https://jlqbypdjqzkx4yez1loifg.on.drv.tw/port/My-Personal-Portfolio.github.io-main/" target="blank"><img align="center" src="icon/website-click-svgrepo-com.svg" alt="md-asif" height="30" width="40" /></a> 
 
 
 

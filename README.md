@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=Asif" alt="" /></a> </p>
 
 <p align="left"> <a href="https://www.linkedin.com/in/asifprofile579/" target="blank"><img src="https://img.shields.io/twitter/follow/Mohammad_Asif?logo=twitter&style=for-the-badge" alt="Mohammad_Asif" /></a> </p>
-<a href="https://app.daily.dev/asifdailydev123"><img src="https://api.daily.dev/devcards/v2/NkBnF2L1iMsRBgoSgBKzn.png?type=default&r=hm5" width="356" alt="Mohammad Asif's Dev Card" width="400" alt="Md Asif's Dev Card"/></a> <img align="center" alt="coding" height="500" width="800" src="icon/asif2-1.png">
+<a href="https://app.daily.dev/asifdailydev123"><img src="https://api.daily.dev/devcards/v2/NkBnF2L1iMsRBgoSgBKzn.png?type=default&r=hm5" width="356" alt="Mohammad Asif's Dev Card" width="400" alt="Md Asif's Dev Card"/></a> <img align="right" alt="coding" height="500" width="800" src="icon/asif2-1.png">
 
 - 🔭 I’m currently working on [E-Commerce-Website-Python-with-Django]([git@github.com:AsifTLT/Simple-E-Commerce-Website-Python-with-Django.git](https://github.com/AsifTLT/Comprehensive-Django-App))
 
